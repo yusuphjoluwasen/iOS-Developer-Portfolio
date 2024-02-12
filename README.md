@@ -1,21 +1,26 @@
 
-![White Minimalist Elegant Neutral LinkedIn Banner](https://user-images.githubusercontent.com/76922883/205179335-3ae68df5-4547-4e42-b1ab-3e8f05ba223a.png)         
- 
-### 👋 Hi! I'm a self-taught freelance/indie iOS Developer. Here's a bit of what I've been working on.
+ ### 👋 Hi! I'm a self-taught freelance/indie iOS Developer. Here's a bit of what I've been working on.
 
-# [Clockology](https://apps.apple.com/us/app/clockology/id1456386228)
+# [LincApp](https://apps.apple.com/us/developer/lincapp/id1651773391))
 (Contract Work)
-I've have the opportunity to contribute to this incredible iOS/watchOS App. Using SwiftUI, I've helped refresh some of the designs, implement a new generic Calendar and Chart layer for users to add to their watch faces, and help with various bug fixes and design updates.
+I've have the opportunity to contribute to this incredible iOS App Using SwiftUI
 
 <p align="center">
 <img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/bdb2b6b7-d6b3-451e-92b4-d9f8e21d0190", width="200"/>
 <img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/33bf4d41-00e6-4b2b-8063-056a70e053b6", width="200"/>
 </p>
 
-- 💬 Wrote a Python script to help with the app's localization
 - 📊 Built a generic chart layer with SwiftCharts to handle the data and settings the User chooses to use
-- 🔹 Helped add custom watch hands to the app usings custom SwiftUI Shapes
-- Other UI and bug fixes
+- 🔹 Designed Custom Components, Shapes and Animations with SwiftUI
+- Users can listen to content built using Apple's Avkit
+- Integrated Customer's Payment System Using Apple InApp Payments and RevenueCat
+
+**Tech Used**
+- 💿 SwiftUI
+- 🎨 App Storage
+- 🏦 In App Payment
+- 🎁 AVKit
+- 💰 Swift Chart
 
 # [AppIdeaasApp](https://apps.apple.com/us/app/appideasapp/id6476480047)
 My most recent app I built and released on the App Store. I created this app out of personal need. I have SO MANY random app ideas and wanted a place I could easily keep track of them. AppIdeasApp lets you create app ideas, brainstorm everything from name ideas, feature ideas, color schemes, and more. Less forgetting. More building. More shipping. I wanted to challenge my design skills on this project and had fun adding some animations (all with SwiftUI of course!)
