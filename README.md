@@ -1,7 +1,7 @@
 
  ### 👋 Hi! I'm a self-taught freelance/indie iOS Developer. Here's a bit of what I've been working on.
 
-# [LincApp](https://apps.apple.com/us/developer/lincapp/id1651773391))
+# [LincApp](https://apps.apple.com/us/developer/lincapp/id1651773391)
 (Contract Work)
 I've have the opportunity to contribute to this incredible iOS App Using SwiftUI
 
