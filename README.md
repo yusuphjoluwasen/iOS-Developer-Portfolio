@@ -12,7 +12,7 @@ I've have the opportunity to contribute to this incredible iOS App Using SwiftUI
 
 - 📊 Built a generic chart layer with SwiftCharts to handle the data and settings the User chooses to use
 - 🔹 Designed Custom Components, Shapes and Animations with SwiftUI
-- Users can listen to content built using Apple's Avkit
+- Users can listen to content built using Apple's AVKit
 - Integrated Customer's Payment System Using Apple InApp Payments and RevenueCat
 
 **Tech Used**
