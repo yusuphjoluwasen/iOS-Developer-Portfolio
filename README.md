@@ -32,10 +32,10 @@ My most recent app I built and released on the App Store. I created this app out
 
 <p align="center">
 
-<img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/f_auto,q_auto/vbbxhr2xosolvyanijey", width="200"/>
- <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/v1707801169/400x800bb_2_d5yucz.png", width="200"/>
-  <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/f_auto,q_auto/fd0s9ctg71hczwlqffow", width="200"/>
-    <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/f_auto,q_auto/pepdeqhxe8mr8aianvef", width="200"/>
+<img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/f_auto,q_auto/vbbxhr2xosolvyanijey",  width="170",height="210"   hspace="10"/>
+ <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/v1707801169/400x800bb_2_d5yucz.png",  width="170",height="210"   hspace="10"/>
+  <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/f_auto,q_auto/fd0s9ctg71hczwlqffow",  width="170",height="210"   hspace="10"/>
+    <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/f_auto,q_auto/pepdeqhxe8mr8aianvef",  width="170",height="210"   hspace="10"/>
 </p>
 
 **Tech Used**
