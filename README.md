@@ -3,6 +3,7 @@
 
 # [LincApp](https://apps.apple.com/us/developer/lincapp/id1651773391)
 (Contract Work)
+
 LincApp is a meditation and mindfulness app built for busy professionals and entrepreneurs. 
 The iOS app lets users listen to audio meditation content, pay for subscriptions, track their sessions, 
 receive recommendations, and practice breathing exercises. I was the sole mobile developer of the app.
