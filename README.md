@@ -76,6 +76,9 @@ The application idea was inspired by a popular Twitter channel where students po
 <p align="center">
 <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/v1707805649/6.7-inch_Screenshot_1_mdizd7.png" width="200"/>
 <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/v1707805660/6.7-inch_Screenshot_3_bqilws.png" width="200"/>
+ <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/v1707805657/6.7-inch_Screenshot_2_xceorp.png" width="200"/>
+<img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/v1707805666/6.7-inch_Screenshot_4_m2ibns.png" width="200"/>
+ <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/v1707805657/6.7-inch_Screenshot_5_ooakeo.png" width="200"/>
  </p>
 
 **Tech Used**
