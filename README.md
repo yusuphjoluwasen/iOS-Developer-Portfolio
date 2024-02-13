@@ -69,16 +69,16 @@ This app started as a passion project for my friend and me during our university
  **Future Work**
 - 💿 AR Integration 
 
-## UNIUNDEGROUND
+# [UNIUNDEGROUND](https://github.com/yusuphjoluwasen/UNIUNDERGROUND)
 The application idea was inspired by a popular Twitter channel where students post confessions anonymously. It is designed for college students in the United Kingdom to share anonymous confessions. the app also connects students with similar interests from several schools. school societies can manage their activities on the app, it features a personal AI that provides assistance for students 
 
 
 <p align="center">
-<img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/v1707805649/6.7-inch_Screenshot_1_mdizd7.png" width="200"/>
-<img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/v1707805660/6.7-inch_Screenshot_3_bqilws.png" width="200"/>
- <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/v1707805657/6.7-inch_Screenshot_2_xceorp.png" width="200"/>
-<img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/v1707805666/6.7-inch_Screenshot_4_m2ibns.png" width="200"/>
- <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/v1707805657/6.7-inch_Screenshot_5_ooakeo.png" width="200"/>
+<img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/v1707805649/6.7-inch_Screenshot_1_mdizd7.png" width="190"/>
+<img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/v1707805660/6.7-inch_Screenshot_3_bqilws.png" width="190"/>
+ <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/v1707805657/6.7-inch_Screenshot_2_xceorp.png" width="190"/>
+<img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/v1707805666/6.7-inch_Screenshot_4_m2ibns.png" width="190"/>
+ <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/v1707805657/6.7-inch_Screenshot_5_ooakeo.png" width="190"/>
  </p>
 
 **Tech Used**
