@@ -8,7 +8,7 @@ The iOS app lets users listen to audio meditation content, pay for subscriptions
 receive recommendations, and practice breathing exercises. I was the sole mobile developer of the app.
 
 <p align="center">
-<img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/bdb2b6b7-d6b3-451e-92b4-d9f8e21d0190", width="200"/>
+<img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/v1707801171/400x800bb_sxv5tb.png", width="200"/>
 <img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/33bf4d41-00e6-4b2b-8063-056a70e053b6", width="200"/>
 </p>
 
