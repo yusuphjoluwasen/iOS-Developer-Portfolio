@@ -3,7 +3,9 @@
 
 # [LincApp](https://apps.apple.com/us/developer/lincapp/id1651773391)
 (Contract Work)
-I've have the opportunity to contribute to this incredible iOS App Using SwiftUI
+LincApp is a meditation and mindfulness app built for busy professionals and entrepreneurs. 
+The iOS app lets users listen to audio meditation content, pay for subscriptions, track their sessions, 
+receive recommendations, and practice breathing exercises. I was the sole mobile developer of the app.
 
 <p align="center">
 <img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/bdb2b6b7-d6b3-451e-92b4-d9f8e21d0190", width="200"/>
