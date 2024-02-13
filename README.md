@@ -8,7 +8,7 @@ receive recommendations, and practice breathing exercises. I was the sole mobile
 
 <p align="center">
 <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/v1707801171/400x800bb_sxv5tb.png", width="200"/>
-<img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/v1707797652/Simulator_Screenshot_-_iPhone_15_-_2024-02-13_at_04.12.35_oea1p1.png", width="200"/>
+<img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/f_auto,q_auto/400x800bb_3_btwsxq", width="200"/>
  <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/v1707801169/400x800bb_2_d5yucz.png", width="200"/>
   <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/v1707801166/400x800bb_1_gmrpy8.png", width="200"/>
 </p>
