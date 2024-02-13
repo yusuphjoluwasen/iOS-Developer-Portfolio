@@ -30,7 +30,7 @@ My most recent app I built and released on the App Store. I created this app out
 
 <p align="center">
  <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/f_auto,q_auto/vbbxhr2xosolvyanijey",  width="200",height="250"   hspace="10"/>
- <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/v1707801169/400x800bb_2_d5yucz.png",  width="200",height="210"   hspace="10"/>
+ <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/v1707797652/Simulator_Screenshot_-_iPhone_15_-_2024-02-13_at_04.12.35_oea1p1.png",  width="200",height="210"   hspace="10"/>
   <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/f_auto,q_auto/fd0s9ctg71hczwlqffow",  width="200",height="210"   hspace="10"/>
     <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/f_auto,q_auto/pepdeqhxe8mr8aianvef",  width="200",height="210"   hspace="10"/>
 </p>
