@@ -9,7 +9,9 @@ receive recommendations, and practice breathing exercises. I was the sole mobile
 
 <p align="center">
 <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/v1707801171/400x800bb_sxv5tb.png", width="200"/>
-<img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/33bf4d41-00e6-4b2b-8063-056a70e053b6", width="200"/>
+<img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/v1707801170/400x800bb_3_btwsxq.png", width="200"/>
+ <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/v1707801169/400x800bb_2_d5yucz.png", width="200"/>
+  <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/v1707801166/400x800bb_1_gmrpy8.png", width="200"/>
 </p>
 
 - 📊 Built a generic chart layer with SwiftCharts to handle the data and settings the User chooses to use
