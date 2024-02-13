@@ -24,9 +24,11 @@ receive recommendations, and practice breathing exercises. I was the sole mobile
 - 🏦 In App Payment
 - 🎁 AVKit
 - 💰 Swift Chart
+- Dark Mode Support
+- Accessibility Features
 
-# [AppIdeaasApp](https://apps.apple.com/us/app/appideasapp/id6476480047)
-My most recent app I built and released on the App Store. I created this app out of personal need. I have SO MANY random app ideas and wanted a place I could easily keep track of them. AppIdeasApp lets you create app ideas, brainstorm everything from name ideas, feature ideas, color schemes, and more. Less forgetting. More building. More shipping. I wanted to challenge my design skills on this project and had fun adding some animations (all with SwiftUI of course!)
+# [IOSEvent+](https://apps.apple.com/us/app/appideasapp/id6476480047)
+I built this app for iOS developers to stay updated with events. It can also be synced to their calendars and contains curated content for developers from the best iOS instructors and YouTubers. Additionally, to give credit to these contributors and make continuous learning easy, it also features curated iOS job listings for developers to access thousands of jobs from several sources right from their phone's comfort.
 
 <p align="center">
  <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/f_auto,q_auto/vbbxhr2xosolvyanijey",  width="200",height="250"   hspace="10"/>
@@ -35,15 +37,12 @@ My most recent app I built and released on the App Store. I created this app out
     <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/f_auto,q_auto/pepdeqhxe8mr8aianvef",  width="200",height="210"   hspace="10"/>
 </p>
 
-
 **Tech Used**
-- 💿 Core Data
+- 💿 Swift
 - 🎨 SwiftUI
 - 🏦 App Storage
-- 🎁 WishKit API
-- 💰 IAP
-- 📲 WidgetKit
-
+- 🎁 Calendar Kit
+- 💰 Dark Mode Support
 
 # [Magic Budget](https://apps.apple.com/us/app/magic-budget/id6447111418)
 This app has been a passion project of mine over the past couple years. Magic Budget is a Disney Parks budget planning app. Me and my husband absolutely love going to the parks but we always find ourselves coming over budget (too many churros). I built this app to help solve this problem! I found the estimated price for many of the popular items in the parks so users can quickly budget for what they might buy on their trip. 
