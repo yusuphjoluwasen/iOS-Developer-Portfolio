@@ -32,10 +32,10 @@ receive recommendations, and practice breathing exercises. I was the sole mobile
 I built this app for iOS developers to stay updated with events curated from [CocoaConferences](https://github.com/Lascorbe/CocoaConferences). The event can be synced to their calendars,  The app also contains curated contents for developers from the best iOS instructors, writers and YouTubers. to aid continuous learning, it also features curated iOS job listings for developers to access thousands of jobs from several sources right from their phone's comfort.
 
 <p align="center">
- <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/f_auto,q_auto/vbbxhr2xosolvyanijey",  width="190",height="210"   hspace="10"/>
- <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/f_auto,q_auto/lwj69nkuzda4l9l9iqhu",  width="190",height="210"   hspace="10"/>
-  <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/f_auto,q_auto/fd0s9ctg71hczwlqffow",  width="190",height="210"   hspace="10"/>
-    <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/f_auto,q_auto/pepdeqhxe8mr8aianvef",  width="190",height="210"   hspace="10"/>
+ <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/f_auto,q_auto/vbbxhr2xosolvyanijey",  width="190",height="210"  />
+ <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/f_auto,q_auto/lwj69nkuzda4l9l9iqhu",  width="190",height="210"   />
+  <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/f_auto,q_auto/fd0s9ctg71hczwlqffow",  width="190",height="210"   />
+    <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/f_auto,q_auto/pepdeqhxe8mr8aianvef",  width="190",height="210"  />
 </p>
 
 **Tech Used**
