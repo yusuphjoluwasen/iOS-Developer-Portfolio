@@ -70,7 +70,7 @@ This app started as a passion project for my friend and me during our university
 - 💿 AR Integration 
 
 # [UNIUNDEGROUND](https://github.com/yusuphjoluwasen/UNIUNDERGROUND)
-The application idea was inspired by a popular Twitter channel where students post confessions anonymously. It is designed for college students in the United Kingdom to share anonymous confessions. the app also connects students with similar interests from several schools. school societies can manage their activities on the app, it features a personal AI that provides assistance for students 
+The application idea was inspired by a popular Twitter channel where students post confessions anonymously. It is designed for college students in the United Kingdom to share anonymous confessions. the app also connects students with similar interests from several schools. student societies can manage their activities on the app, it features a personal AI that provides assistance for students 
 
 
 <p align="center">
