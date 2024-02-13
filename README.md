@@ -1,4 +1,4 @@
-
+![image](https://github.com/yusuphjoluwasen/iOS-Developer-Portfolio/assets/25069943/d1897f72-8bd3-4a8e-ae39-633701aee2f7)![6 7-inch Screenshot 1](https://github.com/yusuphjoluwasen/iOS-Developer-Portfolio/assets/25069943/eb9604dd-0172-4d1d-9d70-3a28e7886644)
  ### 👋 Hi! I'm an iOS Developer. Here's a bit of what I've been working on.
 
 # [LincApp](https://apps.apple.com/us/developer/lincapp/id1651773391)
@@ -14,9 +14,9 @@ receive recommendations, and practice breathing exercises. I was the sole mobile
   <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/v1707801166/400x800bb_1_gmrpy8.png", width="200"/>
 </p>
 
-- 📊 Built a generic chart layer with SwiftCharts to handle the data and settings the User chooses to use
+- 📊 Built a customized chart layer with SwiftCharts for user to track their activities
 - 🔹 Designed Custom Components, Shapes and Animations with SwiftUI
-- Users can listen to content built using Apple's AVKit
+- Advanced Audio Player built using Apple's AVKit
 - Integrated Customer's Payment System Using Apple InApp Payments and RevenueCat
 
 **Tech Used**
@@ -31,9 +31,11 @@ My most recent app I built and released on the App Store. I created this app out
 
 
 <p align="center">
-<img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/e619a6ce-7e2b-4c45-b84f-d6f4f64eb243, width="200", height="355"/>
-<img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/fd6932ea-17c7-46aa-8ac4-49b07d058bec", width="200",height="300" />
-<img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/9153668b-4641-4e87-80d1-8828ec8d135c", width="200", height="300"/>
+
+<img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/f_auto,q_auto/vbbxhr2xosolvyanijey", width="200"/>
+ <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/v1707801169/400x800bb_2_d5yucz.png", width="200"/>
+  <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/f_auto,q_auto/fd0s9ctg71hczwlqffow", width="200"/>
+    <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/f_auto,q_auto/pepdeqhxe8mr8aianvef", width="200"/>
 </p>
 
 **Tech Used**
