@@ -50,7 +50,7 @@ I built this app for iOS developers to stay updated with events curated from [Co
 # [Nursing Moms](https://github.com/yusuphjoluwasen/Nursing-Mothers)
 This app started as a passion project for my friend and me during our university days. She works with nursing mothers at the NHS, providing much-needed support. We've integrated her advice into the app to help more moms cope with the challenges of early motherhood. Our goal is to reduce the stress of frequent hospital visits and connect mothers with professionals. Additionally, the app serves as a platform for moms to connect with each other and receive helpful notifications.
 
-<p align="center">
+<p align="leading">
  <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/v1707805666/6.7-inch_Screenshot_7_bwphoq.png", width="200"/>
 <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/v1707805666/6.7-inch_Screenshot_8_yx3jxh.png", width="200"/>
 <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/v1707805663/6.7-inch_Screenshot_6_tqkbaa.png", width="200"/>
