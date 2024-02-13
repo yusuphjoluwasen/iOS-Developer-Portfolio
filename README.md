@@ -1,5 +1,4 @@
-![image](https://github.com/yusuphjoluwasen/iOS-Developer-Portfolio/assets/25069943/d1897f72-8bd3-4a8e-ae39-633701aee2f7)![6 7-inch Screenshot 1](https://github.com/yusuphjoluwasen/iOS-Developer-Portfolio/assets/25069943/eb9604dd-0172-4d1d-9d70-3a28e7886644)
- ### 👋 Hi! I'm an iOS Developer. Here's a bit of what I've been working on.
+### 👋 Hi! I'm an iOS Developer. Here's a bit of what I've been working on.
 
 # [LincApp](https://apps.apple.com/us/developer/lincapp/id1651773391)
 
@@ -29,6 +28,13 @@ receive recommendations, and practice breathing exercises. I was the sole mobile
 # [AppIdeaasApp](https://apps.apple.com/us/app/appideasapp/id6476480047)
 My most recent app I built and released on the App Store. I created this app out of personal need. I have SO MANY random app ideas and wanted a place I could easily keep track of them. AppIdeasApp lets you create app ideas, brainstorm everything from name ideas, feature ideas, color schemes, and more. Less forgetting. More building. More shipping. I wanted to challenge my design skills on this project and had fun adding some animations (all with SwiftUI of course!)
 
+<p align="center">
+
+<img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/f_auto,q_auto/vbbxhr2xosolvyanijey",  width="170",height="210"   hspace="10"/>
+ <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/v1707801169/400x800bb_2_d5yucz.png",  width="170",height="210"   hspace="10"/>
+  <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/f_auto,q_auto/fd0s9ctg71hczwlqffow",  width="170",height="210"   hspace="10"/>
+    <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/f_auto,q_auto/pepdeqhxe8mr8aianvef",  width="170",height="210"   hspace="10"/>
+</p>
 
 
 **Tech Used**
