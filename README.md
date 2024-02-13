@@ -27,6 +27,7 @@ receive recommendations, and practice breathing exercises. I was the sole mobile
 - Dark Mode Support
 - Accessibility Features
 
+
 # [IOSEvent+](https://apps.apple.com/us/app/appideasapp/id6476480047)
 I built this app for iOS developers to stay updated with events. It can also be synced to their calendars and contains curated content for developers from the best iOS instructors and YouTubers. Additionally, to give credit to these contributors and make continuous learning easy, it also features curated iOS job listings for developers to access thousands of jobs from several sources right from their phone's comfort.
 
@@ -42,6 +43,8 @@ I built this app for iOS developers to stay updated with events. It can also be 
 - 🎨 SwiftUI
 - 🏦 App Storage
 - 🎁 Calendar Kit
+- Yaml to Codable
+- Combine
 - 💰 Dark Mode Support
 
 # [Magic Budget](https://apps.apple.com/us/app/magic-budget/id6447111418)
