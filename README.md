@@ -47,23 +47,24 @@ I built this app for iOS developers to stay updated with events. It can also be 
 - Combine
 - 💰 Dark Mode Support
 
-# [Magic Budget](https://apps.apple.com/us/app/magic-budget/id6447111418)
-This app has been a passion project of mine over the past couple years. Magic Budget is a Disney Parks budget planning app. Me and my husband absolutely love going to the parks but we always find ourselves coming over budget (too many churros). I built this app to help solve this problem! I found the estimated price for many of the popular items in the parks so users can quickly budget for what they might buy on their trip. 
+# [Nursing Moms](https://github.com/yusuphjoluwasen/Nursing-Mothers)
+This app started as a passion project for my friend and me during our university days. She works with nursing mothers at the NHS, providing much-needed support. We've integrated her advice into the app to help more moms cope with the challenges of early motherhood. Our goal is to reduce the stress of frequent hospital visits and connect mothers with professionals. Additionally, the app serves as a platform for moms to connect with each other and receive helpful notifications.
 
 <p align="center">
- <img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/d26e2525-5b46-4814-ad01-b2141f3a4fcf", width="200"/>
-<img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/142c72ae-ffa2-4759-9c47-fc6d65d91316", width="200"/>
-<img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/2edf6ae3-4f8a-4c99-a9e7-2d6f1a3c48a6", width="200"/>
+ <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/v1707805666/6.7-inch_Screenshot_7_bwphoq.png", width="200"/>
+<img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/v1707805666/6.7-inch_Screenshot_8_yx3jxh.png", width="200"/>
+<img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/v1707805663/6.7-inch_Screenshot_6_tqkbaa.png", width="200"/>
+ <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/v1707805674/6.7-inch_Screenshot_9_g321tf.png", width="200"/>
+ <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/v1707805680/6.7-inch_Screenshot_10_hyra4x.png", width="200"/>
 </p>
 
-
 **Tech Used**
-- 💿 Core Data
+- 💿 Swift 
 - 🎨 SwiftUI
 - 🏦 App Storage
-- 🚘 Roadmap
-- 💰 IAP
-- ⏱️ Queue Times API
+- ⏱️ Push Notifications 
+- 💰 Firebase Authentication
+- ⚙️ Firebase Messaging
 
 ## Creator View
 Creator View is an app developed by Sean Allen that helps YouTubers get a bigger picture of their business. 
